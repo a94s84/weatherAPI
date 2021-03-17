@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>type/weather-03</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-15.4%" y="-17.5%" width="130.9%" height="135.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-2" cx="49" cy="18" r="7"></circle>
+        <filter x="-53.6%" y="-53.6%" width="207.1%" height="207.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.961710989   0 0 0 0 0.65036732   0 0 0 0 0.138542295  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-4">
+            <stop stop-color="#E6E6E6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="type/weather-03" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="space" fill-opacity="0.01" fill="#D8D8D8" fill-rule="nonzero" x="0" y="0" width="80" height="80"></rect>
+        <g id="weather-03" filter="url(#filter-1)" transform="translate(6.000000, 10.000000)" fill-rule="nonzero">
+            <circle id="Oval" fill="#FFF9D0" opacity="0.5" cx="49" cy="18" r="18"></circle>
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#FFF091" xlink:href="#path-2"></use>
+            </g>
+            <path d="M41,41 L10,41 L10,40.9870679 C9.83441943,40.9956538 9.66771727,41 9.5,41 C4.25329488,41 0,36.7467051 0,31.5 C0,26.2532949 4.25329488,22 9.5,22 C9.75801404,22 10.0136257,22.0102858 10.2664473,22.0304698 C11.6150738,14.6127831 17.9225524,9 25.5,9 C31.3021886,9 36.3597637,12.2909103 39.0165679,17.1631493 C39.6617618,17.0558374 40.3243601,17 41,17 C47.627417,17 53,22.372583 53,29 C53,35.627417 47.627417,41 41,41 Z" id="Combined-Shape" fill="url(#linearGradient-4)" opacity="0.9"></path>
+            <path d="M53,59.9915409 L53,60 L15,60 L15,59.9888617 C14.8342183,59.9962621 14.6675275,60 14.5,60 C8.14872538,60 3,54.627417 3,48 C3,41.372583 8.14872538,36 14.5,36 C14.8363036,36 15.1692356,36.0150634 15.49821,36.044579 C17.4618198,27.4220255 25.0001678,21 34,21 C41.2370401,21 47.5290465,25.1526483 50.7372437,31.2628858 C51.6316133,31.0903518 52.5552553,31 53.5,31 C61.5081289,31 68,37.4918711 68,45.5 C68,53.5081289 61.5081289,60 53.5,60 C53.3326561,60 53.1659743,59.9971652 53,59.9915409 Z" id="Combined-Shape" fill="url(#linearGradient-4)" opacity="0.9"></path>
+        </g>
+    </g>
+</svg>

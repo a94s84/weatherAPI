@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>type/weather-19</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-16.4%" y="-16.4%" width="132.8%" height="132.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-2" cx="20" cy="20" r="9"></circle>
+        <filter x="-41.7%" y="-41.7%" width="183.3%" height="183.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.961710989   0 0 0 0 0.65036732   0 0 0 0 0.138542295  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="99.1261741%" x2="50%" y2="8.58688121e-15%" id="linearGradient-4">
+            <stop stop-color="#27BAD6" offset="0%"></stop>
+            <stop stop-color="#7ECCF1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-5">
+            <stop stop-color="#92BFE0" offset="0%"></stop>
+            <stop stop-color="#EBEBEB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="type/weather-19" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="space" fill-opacity="0.01" fill="#D8D8D8" fill-rule="nonzero" x="0" y="0" width="80" height="80"></rect>
+        <g id="weather-19" filter="url(#filter-1)" transform="translate(8.000000, 8.000000)" fill-rule="nonzero">
+            <circle id="Oval" fill="#FFF9D0" opacity="0.5" cx="20" cy="20" r="20"></circle>
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#FFF091" xlink:href="#path-2"></use>
+            </g>
+            <rect id="Rectangle-Copy-9" fill="url(#linearGradient-4)" transform="translate(24.000000, 52.000000) rotate(-330.000000) translate(-24.000000, -52.000000) " x="21" y="41" width="6" height="22" rx="3"></rect>
+            <rect id="Rectangle-Copy-9" fill="url(#linearGradient-4)" transform="translate(36.000000, 52.000000) rotate(-330.000000) translate(-36.000000, -52.000000) " x="33" y="41" width="6" height="22" rx="3"></rect>
+            <rect id="Rectangle-Copy-9" fill="url(#linearGradient-4)" transform="translate(48.000000, 52.000000) rotate(-330.000000) translate(-48.000000, -52.000000) " x="45" y="41" width="6" height="22" rx="3"></rect>
+            <path d="M52.6792453,49 L23.4339623,49 L23.4339623,48.9878762 C23.2777542,48.9959255 23.120488,49 22.9622642,49 C18.0125423,49 14,45.0125361 14,40.09375 C14,35.1749639 18.0125423,31.1875 22.9622642,31.1875 C23.2056736,31.1875 23.4468167,31.197143 23.6853276,31.2160654 C24.9576167,24.2619841 30.9080683,19 38.0566038,19 C43.5303666,19 48.3016638,22.0852285 50.8080829,26.6529524 C51.4167564,26.5523475 52.0418492,26.5 52.6792453,26.5 C58.9315255,26.5 64,31.5367966 64,37.75 C64,43.9632034 58.9315255,49 52.6792453,49 Z" id="Combined-Shape" fill="url(#linearGradient-5)" opacity="0.9"></path>
+        </g>
+    </g>
+</svg>

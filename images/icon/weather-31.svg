@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>type/weather-31</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-16.4%" y="-16.4%" width="132.8%" height="132.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-2">
+            <stop stop-color="#92BFE0" offset="0%"></stop>
+            <stop stop-color="#EBEBEB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="99.1261741%" x2="50%" y2="8.58688121e-15%" id="linearGradient-3">
+            <stop stop-color="#27BAD6" offset="0%"></stop>
+            <stop stop-color="#7ECCF1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-4">
+            <stop stop-color="#E6E6E6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#92BFE0" offset="0%"></stop>
+            <stop stop-color="#EBEBEB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="type/weather-31" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="space" fill-opacity="0.01" fill="#D8D8D8" fill-rule="nonzero" x="0" y="0" width="80" height="80"></rect>
+        <g id="weather-09" filter="url(#filter-1)" transform="translate(8.000000, 8.000000)" fill-rule="nonzero">
+            <path d="M52.2264151,32 L21.8113208,32 L21.8113208,31.9870679 C21.6488643,31.9956538 21.4853075,32 21.3207547,32 C16.173044,32 12,27.7467051 12,22.5 C12,17.2532949 16.173044,13 21.3207547,13 C21.5739006,13 21.8246894,13.0102858 22.0727407,13.0304698 C23.3959214,5.61278307 29.584391,0 37.0188679,0 C42.7115812,0 47.6737304,3.29091035 50.2804062,8.16314927 C50.9134267,8.05583738 51.5635232,8 52.2264151,8 C58.7287865,8 64,13.372583 64,20 C64,26.627417 58.7287865,32 52.2264151,32 Z" id="Combined-Shape" fill="url(#linearGradient-2)" opacity="0.9"></path>
+            <rect id="Rectangle-Copy-9" fill="url(#linearGradient-3)" transform="translate(10.098076, 48.026279) rotate(-330.000000) translate(-10.098076, -48.026279) " x="7.09807621" y="37.0262794" width="6" height="22" rx="3"></rect>
+            <rect id="Rectangle-Copy-9" fill="url(#linearGradient-3)" transform="translate(22.098076, 48.026279) rotate(-330.000000) translate(-22.098076, -48.026279) " x="19.0980762" y="37.0262794" width="6" height="22" rx="3"></rect>
+            <path d="M46.1538462,41.9926254 L46.1538462,42 L11.0769231,42 L11.0769231,41.9902897 C10.9238938,41.9967413 10.7700254,42 10.6153846,42 C4.75266958,42 0,37.3162097 0,31.5384615 C0,25.7607134 4.75266958,21.0769231 10.6153846,21.0769231 C10.9258187,21.0769231 11.2331405,21.0900553 11.5368092,21.1157868 C13.3493721,13.5986889 20.3078472,8 28.6153846,8 C35.2957293,8 41.1037352,11.6202575 44.0651481,16.9471312 C44.89072,16.7967169 45.7433126,16.7179487 46.6153846,16.7179487 C54.0075036,16.7179487 60,22.3775287 60,29.3589744 C60,36.34042 54.0075036,42 46.6153846,42 C46.4609133,42 46.3070532,41.9975286 46.1538462,41.9926254 Z" id="Combined-Shape" fill="url(#linearGradient-4)" opacity="0.9"></path>
+            <path d="M29,52.0525589 L29,52.0525589 C29,53.7016774 30.3368747,55.038552 31.9859932,55.038552 C31.9906512,55.038552 31.9953092,55.0385411 31.9999671,55.0385193 L38.7307857,55.0070198 C39.5553359,55.003161 40.2268941,55.6684628 40.2307529,56.493013 C40.2307638,56.495342 40.2307692,56.497671 40.2307692,56.5 L40.2307692,56.5 C40.2307692,57.3284271 39.5591964,58 38.7307692,58 L37.6153846,58 C36.1709476,58 35,59.1709476 35,60.6153846 L35,61 C35,62.6568542 36.3431458,64 38,64 L58.4528302,64 C60.1096844,64 61.4528302,62.6568542 61.4528302,61 L61.4528302,61 C61.4528302,59.3431458 60.1096844,58 58.4528302,58 L50.5,58 C49.6715729,58 49,57.3284271 49,56.5 L49,56.5 C49,55.6715729 49.6715729,55 50.5,55 L53.1961524,55 C54.8530067,55 56.1961524,53.6568542 56.1961524,52 L56.1961524,52 C56.1961524,50.3463447 54.8555999,49.0057922 53.2019446,49.0057922 C53.2000157,49.0057922 53.1980869,49.005794 53.196158,49.0057977 L31.9999944,49.0467611 C30.3422062,49.049965 29,50.3947676 29,52.0525589 Z" id="Path-3" fill-opacity="0.7" fill="url(#linearGradient-4)"></path>
+            <path d="M34,35 L34,35 C34,36.6568542 35.3431458,38 37,38 L43.7307692,38 C44.5591964,38 45.2307692,38.6715729 45.2307692,39.5 L45.2307692,39.5 C45.2307692,40.3284271 44.5591964,41 43.7307692,41 L42.6153846,41 C41.1709476,41 40,42.1709476 40,43.6153846 L40,44 C40,45.6568542 41.3431458,47 43,47 L61,47 C62.6568542,47 64,45.6568542 64,44 L64,44 C64,42.3431458 62.6568542,41 61,41 L55.5,41 C54.6715729,41 54,40.3284271 54,39.5 L54,39.5 C54,38.6715729 54.6715729,38 55.5,38 L56.5980762,38 C58.0329541,38 59.1961524,36.8368017 59.1961524,35.4019238 L59.1961524,35 C59.1961524,33.3431458 57.8530067,32 56.1961524,32 L37,32 C35.3431458,32 34,33.3431458 34,35 Z" id="Path-3" fill-opacity="0.7" fill="url(#linearGradient-5)" transform="translate(49.000000, 39.500000) rotate(-360.000000) translate(-49.000000, -39.500000) "></path>
+        </g>
+    </g>
+</svg>

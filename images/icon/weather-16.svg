@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>type/weather-16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-15.9%" y="-17.5%" width="131.8%" height="135.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-2">
+            <stop stop-color="#92BFE0" offset="0%"></stop>
+            <stop stop-color="#EBEBEB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-3">
+            <stop stop-color="#FFF091" offset="0%"></stop>
+            <stop stop-color="#FED546" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-4" points="41 20 21 43.1578947 29.8888889 43.1578947 21 60 41 36.8421053 32.1111111 36.8421053"></polygon>
+    </defs>
+    <g id="type/weather-16" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="space" fill-opacity="0.01" fill="#D8D8D8" fill-rule="nonzero" x="0" y="0" width="80" height="80"></rect>
+        <g id="weather-16" filter="url(#filter-1)" transform="translate(7.000000, 10.000000)" fill-rule="nonzero">
+            <path d="M51,37.9918326 L51,38 L12,38 L12,37.9893258 C11.8342183,37.9964178 11.6675275,38 11.5,38 C5.14872538,38 0,32.8512746 0,26.5 C0,20.1487254 5.14872538,15 11.5,15 C11.8113354,15 12.1197813,15.0123719 12.4248727,15.0366508 C14.2958561,6.44565046 22.1253882,0 31.5,0 C39.0272666,0 45.5583966,4.15560982 48.8086744,10.2406963 C49.6807646,10.0826571 50.5803848,10 51.5,10 C59.5081289,10 66,16.2680135 66,24 C66,31.7319865 59.5081289,38 51.5,38 C51.3326561,38 51.1659743,37.9972629 51,37.9918326 Z" id="Combined-Shape" fill="url(#linearGradient-2)" opacity="0.9"></path>
+            <g id="Path-2">
+                <use fill="#FFF091" xlink:href="#path-4"></use>
+                <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>type/weather-05</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-15.0%" y="-18.8%" width="130.0%" height="137.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-2">
+            <stop stop-color="#418BA8" offset="0%"></stop>
+            <stop stop-color="#CBCECE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-3">
+            <stop stop-color="#92BFE0" offset="0%"></stop>
+            <stop stop-color="#EBEBEB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-4">
+            <stop stop-color="#E6E6E6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="type/weather-05" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="space" fill-opacity="0.01" fill="#D8D8D8" fill-rule="nonzero" x="0" y="0" width="80" height="80"></rect>
+        <g id="weather-05" filter="url(#filter-1)" transform="translate(5.000000, 12.000000)" fill-rule="nonzero" opacity="0.9">
+            <path d="M57,24.9870679 L57,25 L32,25 L32,24.9835977 C31.8347382,24.9944753 31.6680143,25 31.5,25 C27.3578644,25 24,21.6421356 24,17.5 C24,13.3578644 27.3578644,10 31.5,10 C31.7506384,10 31.9984052,10.0122945 32.2427304,10.0363132 C33.3868336,4.31263007 38.4397824,0 44.5,0 C49.0579662,0 53.0461473,2.43954019 55.230067,6.08414429 C55.6454853,6.02864879 56.069397,6 56.5,6 C61.7467051,6 66,10.2532949 66,15.5 C66,20.5789879 62.0142824,24.7270615 57,24.9870679 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+            <path d="M40.2264151,39 L9.81132075,39 L9.81132075,38.9870679 C9.64886434,38.9956538 9.48530751,39 9.32075472,39 C4.17304403,39 0,34.7467051 0,29.5 C0,24.2532949 4.17304403,20 9.32075472,20 C9.57390057,20 9.82468936,20.0102858 10.0727407,20.0304698 C11.3959214,12.6127831 17.584391,7 25.0188679,7 C30.7115812,7 35.6737304,10.2909103 38.2804062,15.1631493 C38.9134267,15.0558374 39.5635232,15 40.2264151,15 C46.7287865,15 52,20.372583 52,27 C52,33.627417 46.7287865,39 40.2264151,39 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+            <path d="M55.6923077,55.9921916 L55.6923077,56 L19.4461538,56 L19.4461538,55.9897185 C19.2880236,55.9965496 19.1290262,56 18.9692308,56 C12.9110919,56 8,51.0406926 8,44.9230769 C8,38.8054612 12.9110919,33.8461538 18.9692308,33.8461538 C19.2900127,33.8461538 19.6075786,33.8600586 19.9213696,33.8873037 C21.7943512,25.9280235 28.9847754,20 37.5692308,20 C44.4722536,20 50.4738597,23.8332138 53.5339863,29.4734331 C54.3870773,29.3141709 55.2680896,29.2307692 56.1692308,29.2307692 C63.8077537,29.2307692 70,35.2232657 70,42.6153846 C70,50.0075036 63.8077537,56 56.1692308,56 C56.0096104,56 55.8506216,55.9973832 55.6923077,55.9921916 Z" id="Combined-Shape" fill="url(#linearGradient-4)"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>type/weather-12</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-15.0%" y="-16.4%" width="130.0%" height="132.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-2">
+            <stop stop-color="#E6E6E6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="99.1261741%" x2="50%" y2="8.58688121e-15%" id="linearGradient-3">
+            <stop stop-color="#27BAD6" offset="0%"></stop>
+            <stop stop-color="#7ECCF1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="type/weather-12" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="space" fill-opacity="0.01" fill="#D8D8D8" fill-rule="nonzero" x="0" y="0" width="80" height="80"></rect>
+        <g id="weather-08" filter="url(#filter-1)" transform="translate(5.000000, 9.000000)" fill-rule="nonzero">
+            <path d="M41,24.9870679 L41,25 L16,25 L16,24.9835977 C15.8347382,24.9944753 15.6680143,25 15.5,25 C11.3578644,25 8,21.6421356 8,17.5 C8,13.3578644 11.3578644,10 15.5,10 C15.7506384,10 15.9984052,10.0122945 16.2427304,10.0363132 C17.3868336,4.31263007 22.4397824,0 28.5,0 C33.0579662,0 37.0461473,2.43954019 39.230067,6.08414429 C39.6454853,6.02864879 40.069397,6 40.5,6 C45.7467051,6 50,10.2532949 50,15.5 C50,20.5789879 46.0142824,24.7270615 41,24.9870679 Z" id="Combined-Shape" fill="url(#linearGradient-2)" opacity="0.9"></path>
+            <path d="M58.2264151,40 L27.8113208,40 L27.8113208,39.9870679 C27.6488643,39.9956538 27.4853075,40 27.3207547,40 C22.173044,40 18,35.7467051 18,30.5 C18,25.2532949 22.173044,21 27.3207547,21 C27.5739006,21 27.8246894,21.0102858 28.0727407,21.0304698 C29.3959214,13.6127831 35.584391,8 43.0188679,8 C48.7115812,8 53.6737304,11.2909103 56.2804062,16.1631493 C56.9134267,16.0558374 57.5635232,16 58.2264151,16 C64.7287865,16 70,21.372583 70,28 C70,34.627417 64.7287865,40 58.2264151,40 Z" id="Combined-Shape" fill="url(#linearGradient-2)" opacity="0.9"></path>
+            <rect id="Rectangle-Copy-9" fill="url(#linearGradient-3)" transform="translate(15.098076, 52.026279) rotate(-330.000000) translate(-15.098076, -52.026279) " x="12.0980762" y="41.0262794" width="6" height="22" rx="3"></rect>
+            <rect id="Rectangle-Copy-9" fill="url(#linearGradient-3)" transform="translate(27.098076, 52.026279) rotate(-330.000000) translate(-27.098076, -52.026279) " x="24.0980762" y="41.0262794" width="6" height="22" rx="3"></rect>
+            <rect id="Rectangle-Copy-9" fill="url(#linearGradient-3)" transform="translate(39.098076, 52.026279) rotate(-330.000000) translate(-39.098076, -52.026279) " x="36.0980762" y="41.0262794" width="6" height="22" rx="3"></rect>
+            <path d="M46.1538462,51.9926254 L46.1538462,52 L11.0769231,52 L11.0769231,51.9902897 C10.9238938,51.9967413 10.7700254,52 10.6153846,52 C4.75266958,52 0,47.3162097 0,41.5384615 C0,35.7607134 4.75266958,31.0769231 10.6153846,31.0769231 C10.9258187,31.0769231 11.2331405,31.0900553 11.5368092,31.1157868 C13.3493721,23.5986889 20.3078472,18 28.6153846,18 C35.2957293,18 41.1037352,21.6202575 44.0651481,26.9471312 C44.89072,26.7967169 45.7433126,26.7179487 46.6153846,26.7179487 C54.0075036,26.7179487 60,32.3775287 60,39.3589744 C60,46.34042 54.0075036,52 46.6153846,52 C46.4609133,52 46.3070532,51.9975286 46.1538462,51.9926254 Z" id="Combined-Shape" fill="url(#linearGradient-2)" opacity="0.9"></path>
+        </g>
+    </g>
+</svg>

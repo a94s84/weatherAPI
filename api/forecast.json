@@ -1,0 +1,3303 @@
+{
+    "data": [
+    {
+        "location": "連江縣",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "13",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "3",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "54",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "11",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "9",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "5",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "11",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "東北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "8",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "5",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "6",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "高量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏11至14度。寒冷。東北風 風速5級(每秒8公尺)。相對濕度54%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location":"金門縣",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "4",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "43",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "18",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "11",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "6",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "東北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": ">= 11",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": ">= 6",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "6",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "高量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏14至18度。寒冷至稍有寒意。東北風 風速>= 6級(每秒13公尺)。相對濕度43%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "宜蘭縣",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "6",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "50",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "18",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "15",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "12",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "偏北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "3",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "2",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "4",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏14至18度。寒冷至稍有寒意。偏北風 風速2級(每秒3公尺)。相對濕度50%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "新竹縣",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "6",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "48",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "18",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "12",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "7",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "東北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "10",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "5",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "5",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏14至18度。寒冷至稍有寒意。東北風 風速5級(每秒10公尺)。相對濕度48%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "苗栗縣",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "2",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "37",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "18",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "8",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "東北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "8",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "5",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "5",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏14至18度。寒冷至稍有寒意。東北風 風速5級(每秒8公尺)。相對濕度37%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "彰化縣",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "18",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "8",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "51",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "20",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "15",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "15",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "10",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "18",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "15",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "偏北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "8",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "5",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "5",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏15至20度。寒冷至稍有寒意。偏北風 風速5級(每秒8公尺)。相對濕度51%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "南投縣",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "21",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "5",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "37",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "22",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "18",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "22",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "19",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "偏北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "1",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "<= 1",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "5",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏18至22度。稍有寒意。偏北風 風速<= 1級(每秒1公尺)。相對濕度37%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "雲林縣",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "20",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "9",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "50",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "21",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "20",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "19",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "偏北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "4",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "3",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "5",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏17至21度。稍有寒意。偏北風 風速3級(每秒4公尺)。相對濕度50%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "嘉義縣",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "20",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "8",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "48",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "22",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "18",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "11",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "19",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "偏北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "8",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "5",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "5",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏16至22度。稍有寒意。偏北風 風速5級(每秒8公尺)。相對濕度48%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "屏東縣",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "23",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "12",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "50",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "24",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "21",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "22",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "20",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "21",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "20",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "10",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "西南風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "4",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "3",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "5",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 10%。溫度攝氏21至24度。舒適。西南風 風速3級(每秒4公尺)。相對濕度50%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "臺東縣",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "18",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "12",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "66",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "19",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "13",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "18",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "10",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "東北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "6",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "4",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "陰天",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "07",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "3",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "陰天。降雨機率 10%。溫度攝氏16至19度。稍有寒意。東北風 風速4級(每秒6公尺)。相對濕度66%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "花蓮縣",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "8",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "58",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "13",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "10",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "10",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "東北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "6",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "4",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "陰天",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "07",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "3",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "陰天。降雨機率 10%。溫度攝氏14至17度。寒冷至稍有寒意。東北風 風速4級(每秒6公尺)。相對濕度58%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "澎湖縣",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "9",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "62",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "15",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "10",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "8",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "15",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "偏北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": ">= 11",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": ">= 6",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "6",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "高量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏15至17度。寒冷至稍有寒意。偏北風 風速>= 6級(每秒17公尺)。相對濕度62%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "基隆市",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "15",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "6",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "57",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "12",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "9",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "偏北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "7",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "4",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "4",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏14至16度。寒冷至稍有寒意。偏北風 風速4級(每秒7公尺)。相對濕度57%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "新竹市",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "6",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "49",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "18",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "15",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "11",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "7",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "15",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "東北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": ">= 11",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": ">= 6",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "5",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏15至18度。寒冷至稍有寒意。東北風 風速>= 6級(每秒11公尺)。相對濕度49%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "嘉義市",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "21",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "10",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "49",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "23",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "18",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "22",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "15",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "20",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "偏北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "5",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "3",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "5",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏18至23度。稍有寒意至舒適。偏北風 風速3級(每秒5公尺)。相對濕度49%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "臺北市",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "4",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "46",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "15",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "11",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "東北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "4",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "3",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "4",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏14至17度。寒冷至稍有寒意。東北風 風速3級(每秒4公尺)。相對濕度46%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "高雄市",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "21",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "63",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "22",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "20",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "20",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "19",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "20",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "19",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "10",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "西南風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "5",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "3",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "5",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 10%。溫度攝氏20至22度。稍有寒意至舒適。西南風 風速3級(每秒5公尺)。相對濕度63%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "新北市",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "5",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "46",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "18",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "15",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "11",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "東北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "5",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "3",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "4",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏15至18度。寒冷至稍有寒意。東北風 風速3級(每秒5公尺)。相對濕度46%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "臺中市",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "20",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "7",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "42",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "22",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "19",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "15",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "19",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "偏北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "4",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "3",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "6",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "高量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏17至22度。稍有寒意。偏北風 風速3級(每秒4公尺)。相對濕度42%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "臺南市",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "20",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "11",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "54",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "22",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "18",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "19",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "13",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "20",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "西北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "8",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "5",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "5",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏18至22度。稍有寒意至舒適。西北風 風速5級(每秒8公尺)。相對濕度54%。",
+                "measures": "NA"
+            }
+        }
+    },
+    {
+        "location": "桃園市",
+        "T":
+        {
+            "desc": "平均溫度",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "攝氏度"
+            }
+        },
+        "Td":
+        {
+            "desc": "平均露點溫度",
+            "elementValue":
+            {
+                "value": "5",
+                "measures": "攝氏度"
+            }
+        },
+        "RH":
+        {
+            "desc": "平均相對濕度",
+            "elementValue":
+            {
+                "value": "48",
+                "measures": "百分比"
+            }
+        },
+        "MaxT":
+        {
+            "desc": "最高溫度",
+            "elementValue":
+            {
+                "value": "17",
+                "measures": "攝氏度"
+            }
+        },
+        "MinT":
+        {
+            "desc": "最低溫度",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxAT":
+        {
+            "desc": "最高體感溫度",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "攝氏度"
+            }
+        },
+        "MinAT":
+        {
+            "desc": "最低體感溫度",
+            "elementValue":
+            {
+                "value": "10",
+                "measures": "攝氏度"
+            }
+        },
+        "MaxCI":
+        {
+            "desc": "最大舒適度指數",
+            "elementValue":
+            {
+                "value": "16",
+                "measures": "NA"
+            }
+        },
+        "MinCI":
+        {
+            "desc": "最小舒適度指數",
+            "elementValue":
+            {
+                "value": "14",
+                "measures": "NA"
+            }
+        },
+        "PoP12h":
+        {
+            "desc": "12小時降雨機率",
+            "elementValue":
+            {
+                "value": "0",
+                "measures": "百分比"
+            }
+        },
+        "WD":
+        {
+            "desc": "風向",
+            "elementValue":
+            {
+                "value": "東北風",
+                "measures": "8方位"
+            }
+        },
+        "WS":
+        {
+            "desc": "最大風速",
+            "elementValue": [
+            {
+                "value": "5",
+                "measures": "公尺/秒"
+            },
+            {
+                "value": "3",
+                "measures": "蒲福風級"
+            }]
+        },
+        "Wx":
+        {
+            "desc": "天氣現象",
+            "elementValue": [
+            {
+                "value": "晴時多雲",
+                "measures": "自定義 Wx 文字"
+            },
+            {
+                "value": "02",
+                "measures": "自定義 Wx 單位"
+            }]
+        },
+        "UVI":
+        {
+            "desc": "紫外線指數",
+            "elementValue": [
+            {
+                "value": "4",
+                "measures": "紫外線指數"
+            },
+            {
+                "value": "中量級",
+                "measures": "曝曬級數"
+            }]
+        },
+        "WeatherDescription":
+        {
+            "desc": "天氣預報綜合描述",
+            "elementValue":
+            {
+                "value": "晴時多雲。降雨機率 0%。溫度攝氏14至17度。寒冷至稍有寒意。東北風 風速3級(每秒5公尺)。相對濕度48%。",
+                "measures": "NA"
+            }
+        }
+    }]
+}

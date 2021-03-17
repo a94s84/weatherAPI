@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>type/weather-17</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-16.4%" y="-16.4%" width="132.8%" height="132.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-2">
+            <stop stop-color="#92BFE0" offset="0%"></stop>
+            <stop stop-color="#EBEBEB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="99.1261741%" x2="50%" y2="8.58688121e-15%" id="linearGradient-3">
+            <stop stop-color="#27BAD6" offset="0%"></stop>
+            <stop stop-color="#7ECCF1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-4">
+            <stop stop-color="#418BA8" offset="0%"></stop>
+            <stop stop-color="#CBCECE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-5">
+            <stop stop-color="#FFF091" offset="0%"></stop>
+            <stop stop-color="#FED546" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-6" points="31 28 13 48.8421053 21 48.8421053 13 64 31 43.1578947 23 43.1578947"></polygon>
+    </defs>
+    <g id="type/weather-17" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="space" fill-opacity="0.01" fill="#D8D8D8" fill-rule="nonzero" x="0" y="0" width="80" height="80"></rect>
+        <g id="weather-17" filter="url(#filter-1)" transform="translate(8.000000, 8.000000)" fill-rule="nonzero">
+            <path d="M53.1320755,30 L25.0566038,30 L25.0566038,29.9878762 C24.906644,29.9959255 24.7556685,30 24.6037736,30 C19.8520406,30 16,26.0125361 16,21.09375 C16,16.1749639 19.8520406,12.1875 24.6037736,12.1875 C24.8374467,12.1875 25.068944,12.197143 25.2979145,12.2160654 C26.5193121,5.26198412 32.2317456,0 39.0943396,0 C44.3491519,0 48.9295973,3.08522845 51.3357596,7.65295244 C51.9200862,7.55234755 52.5201752,7.5 53.1320755,7.5 C59.1342645,7.5 64,12.5367966 64,18.75 C64,24.9632034 59.1342645,30 53.1320755,30 Z" id="Combined-Shape" fill="url(#linearGradient-2)" opacity="0.9"></path>
+            <rect id="Rectangle-Copy-9" fill="url(#linearGradient-3)" transform="translate(11.098076, 41.026279) rotate(-330.000000) translate(-11.098076, -41.026279) " x="8.09807621" y="30.0262794" width="6" height="22" rx="3"></rect>
+            <rect id="Rectangle-Copy-9" fill="url(#linearGradient-3)" transform="translate(38.098076, 41.026279) rotate(-330.000000) translate(-38.098076, -41.026279) " x="35.0980762" y="30.0262794" width="6" height="22" rx="3"></rect>
+            <rect id="Rectangle-Copy-9" fill="url(#linearGradient-3)" transform="translate(53.098076, 31.026279) rotate(-330.000000) translate(-53.098076, -31.026279) " x="50.0980762" y="20.0262794" width="6" height="22" rx="3"></rect>
+            <path d="M41.5384615,40.9930592 L41.5384615,41 L9.96923077,41 L9.96923077,40.9908609 C9.83150442,40.996933 9.69302282,41 9.55384615,41 C4.27740262,41 0,36.5917268 0,31.1538462 C0,25.7159655 4.27740262,21.3076923 9.55384615,21.3076923 C9.83323685,21.3076923 10.1098265,21.3200521 10.3831283,21.34427 C12.0144349,14.2693542 18.2770624,9 25.7538462,9 C31.7661564,9 36.9933617,12.4073012 39.6586333,17.4208294 C40.401648,17.279263 41.1689813,17.2051282 41.9538462,17.2051282 C48.6067532,17.2051282 54,22.5317917 54,29.1025641 C54,35.6733365 48.6067532,41 41.9538462,41 C41.814822,41 41.6763479,40.997674 41.5384615,40.9930592 Z" id="Combined-Shape" fill="url(#linearGradient-4)" opacity="0.9"></path>
+            <g id="Path-2">
+                <use fill="#FFF091" xlink:href="#path-6"></use>
+                <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+            </g>
+        </g>
+    </g>
+</svg>
